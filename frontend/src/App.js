@@ -9,7 +9,7 @@ import {
   TrendingUp, Star, Lightbulb, Package
 } from 'lucide-react';
 
-const API_BASE = process.env.REACT_APP_API_URL || 'http://localhost:8000';
+const API_BASE = process.env.REACT_APP_API_URL || 'https://meal-planner-agent-production-6c5e.up.railway.app';
 
 // ─── STYLES ───────────────────────────────────────────────────────────────────
 const styles = `
