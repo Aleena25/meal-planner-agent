@@ -973,8 +973,7 @@ export default function App() {
         <a className="nav-logo"><ChefHat size={22} /> NourishAI</a>
       </nav>
       <div className="hero">
-        {/* <div className="hero-badge"><Sparkles size={13} /> </div> */}
-        
+        <div className="hero-badge"><Sparkles size={13} /> Powered by GROQ</div>
         <h1>Your personal<br /><span>meal planning</span> agent</h1>
         <p>Tell us your preferences and we'll craft a full week of delicious, nutritious meals — complete with recipes, shopping lists, and prep tips.</p>
       </div>
